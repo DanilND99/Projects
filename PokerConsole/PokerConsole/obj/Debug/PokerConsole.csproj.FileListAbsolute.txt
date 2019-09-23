@@ -1,0 +1,7 @@
+C:\Users\dan-g\source\repos\PokerConsole\PokerConsole\bin\Debug\PokerConsole.exe.config
+C:\Users\dan-g\source\repos\PokerConsole\PokerConsole\bin\Debug\PokerConsole.exe
+C:\Users\dan-g\source\repos\PokerConsole\PokerConsole\bin\Debug\PokerConsole.pdb
+C:\Users\dan-g\source\repos\PokerConsole\PokerConsole\obj\Debug\PokerConsole.csprojResolveAssemblyReference.cache
+C:\Users\dan-g\source\repos\PokerConsole\PokerConsole\obj\Debug\PokerConsole.csproj.CoreCompileInputs.cache
+C:\Users\dan-g\source\repos\PokerConsole\PokerConsole\obj\Debug\PokerConsole.exe
+C:\Users\dan-g\source\repos\PokerConsole\PokerConsole\obj\Debug\PokerConsole.pdb
